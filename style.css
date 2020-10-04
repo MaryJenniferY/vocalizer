@@ -737,3 +737,59 @@ div{
 .links a{
     color: teal;
 }
+
+
+/*---------------------events tab----------------------*/
+
+.section1{
+    background: url(eventsbg.png) center top;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.section1 .regbutton{
+    width: 130px;
+    margin: 20px auto 0;
+    background-color: #ffc90dff;
+    font-weight: 700;
+    padding: 7px 10px;
+    font-size: 20px;
+    font-family: 'Skranji', cursive;
+    color: black;
+    box-shadow: 2px 2px #888;
+}
+
+.section1 a:hover .regbutton{
+    transition: 1s;
+    background: #ffbd0dff;
+    position: relative;
+    top: 2px;
+    left: 2px;
+    box-shadow: none;
+    
+}
+.section1 a:hover {
+    text-decoration:none;
+}
+
+
+/*---------------------events tab----------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
